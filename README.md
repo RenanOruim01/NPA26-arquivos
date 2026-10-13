@@ -8,6 +8,8 @@ Aqui está sua colinha, meu dev promissor! 😎
 
 💡 **Dica:** mantenha este README aberto no VS Code para consultar as imagens enquanto programa. Assim, você não precisa sair do editor para lembrar como utilizar as tags e propriedades.
 
+# Pressione CTRL + SHIFT + V para visualizar as imagens caso não veja.
+
 ---
 
 # 🧱 HTML — A estrutura do seu site
