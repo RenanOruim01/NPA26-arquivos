@@ -25,3 +25,6 @@ Agora entra o CSS (Cascading Style Sheets), com ele podemos modificar e estiliza
 # TAGS CSS
 <img width="2752" height="1536" alt="CssBasicoPNG" src="https://github.com/user-attachments/assets/2525374c-1ae7-4a79-95a5-7c4c3f8ce5e1" />
 
+## Olha só!! agora temos um site estilizado:
+<img width="1478" height="956" alt="asas" src="https://github.com/user-attachments/assets/f70a0a50-07c6-48c5-a6cb-197d259e164c" />
+
