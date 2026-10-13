@@ -1,30 +1,77 @@
 # NPA26-arquivos
-# APERTE CTRL + SHIFT + V
-Olá!! bem vindo ao Web Criativaxion!!
-Aqui fica a sua colinha meu dev promissor!!
 
-# TAGS HTML
+# 🚀 Web Criativaxion
 
- A maioria dos sites na internet tem HTML (HyperText Markup Language) em sua estrutura, o HTML é base para qualquer aplicação web ou tela bonita que você vê!
- 
- ## Abaixo está anexado um exemplo simples de como utilizamos o HTML
+Olá!! Bem-vindo ao Web Criativaxion!
 
-<img width="804" height="458" alt="meuPrimeiroSIte" src="https://github.com/user-attachments/assets/31a4ca5c-b4a1-42e5-980f-b426eee7918a" />
+Aqui está sua colinha, meu dev promissor! 😎
 
+💡 **Dica:** mantenha este README aberto no VS Code para consultar as imagens enquanto programa. Assim, você não precisa sair do editor para lembrar como utilizar as tags e propriedades.
 
-## Abaixo está anexada as principais tags HTML para você utilizar para criar seu próprio site!!
-<img width="1312" height="1199" alt="Guia visual de tags HTML em português" src="https://github.com/user-attachments/assets/f700ff9e-a288-4166-8377-a8ff2e48db83" />
+---
 
-Entretanto seu site ainda não está estilizado, então ele está muito "seco" ficaria assim sem estilização:
-<img width="587" height="390" alt="a" src="https://github.com/user-attachments/assets/f91e1933-af0d-421f-8501-cd9a8a1866c5" />
+# 🧱 HTML — A estrutura do seu site
 
-Agora entra o CSS (Cascading Style Sheets), com ele podemos modificar e estilizar nossa página HMTL
- ## Abaixo está anexado um exemplo simples de como utilizamos o HTML
- <img width="761" height="432" alt="cssa" src="https://github.com/user-attachments/assets/3bbe2377-14bd-4dfe-9335-514d6824a771" />
+A maioria dos sites utiliza HTML (*HyperText Markup Language*) para definir sua estrutura.
 
-# TAGS CSS
-<img width="2752" height="1536" alt="CssBasicoPNG" src="https://github.com/user-attachments/assets/2525374c-1ae7-4a79-95a5-7c4c3f8ce5e1" />
+Com ele, você cria títulos, parágrafos, imagens, links e muito mais!
 
-## Olha só!! agora temos um site estilizado:
-<img width="1478" height="956" alt="asas" src="https://github.com/user-attachments/assets/f70a0a50-07c6-48c5-a6cb-197d259e164c" />
+## 🖥️ Exemplo de um HTML simples
 
+<p align="center">
+  <img width="804" alt="Exemplo de um site criado com HTML" src="https://github.com/user-attachments/assets/31a4ca5c-b4a1-42e5-980f-b426eee7918a" />
+</p>
+
+## 📚 Principais tags HTML
+
+Consulte a imagem abaixo para descobrir algumas das principais tags que você pode utilizar para criar seu próprio site!
+
+<p align="center">
+  <img width="800" alt="Guia visual das principais tags HTML" src="https://github.com/user-attachments/assets/f700ff9e-a288-4166-8377-a8ff2e48db83" />
+</p>
+
+## 😶 Como fica um site sem CSS?
+
+Sem estilização, seu site terá uma aparência mais simples.
+
+<p align="center">
+  <img width="587" alt="Exemplo de uma página sem estilização CSS" src="https://github.com/user-attachments/assets/f91e1933-af0d-421f-8501-cd9a8a1866c5" />
+</p>
+
+---
+
+# 🎨 CSS — Deixando seu site bonito
+
+CSS significa *Cascading Style Sheets*.
+
+Ele permite estilizar sua página HTML, modificando cores, fontes, tamanhos, espaçamentos, posicionamentos e muito mais!
+
+## 🖌️ Exemplo de CSS em ação
+
+<p align="center">
+  <img width="761" alt="Exemplo de estilização utilizando CSS" src="https://github.com/user-attachments/assets/3bbe2377-14bd-4dfe-9335-514d6824a771" />
+</p>
+
+## 📚 Principais propriedades CSS
+
+Consulte esta imagem para conhecer algumas propriedades CSS e aprender como utilizá-las!
+
+<p align="center">
+  <img width="1000" alt="Guia visual das principais propriedades CSS" src="https://github.com/user-attachments/assets/2525374c-1ae7-4a79-95a5-7c4c3f8ce5e1" />
+</p>
+
+## ✨ E este é o resultado!
+
+Com HTML e CSS trabalhando juntos, você consegue transformar uma página simples em um site muito mais bonito!
+
+<p align="center">
+  <img width="900" alt="Resultado final de um site estilizado com CSS" src="https://github.com/user-attachments/assets/f70a0a50-07c6-48c5-a6cb-197d259e164c" />
+</p>
+
+---
+
+# 🚀 Agora é sua vez!
+
+Use os exemplos e as imagens como referência e comece a criar seu primeiro site!
+
+**Lembre-se: você não precisa decorar tudo. O importante é entender o básico e praticar!** 💙
