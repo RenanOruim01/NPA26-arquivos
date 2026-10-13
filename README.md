@@ -5,7 +5,7 @@ Aqui fica a sua colinha meu dev promissor!!
 
 # TAGS HTML
 
- A maioria dos sites na internet tem HTML (HyperText Markup Language) em sua estrutura, o HTML é base para qualquer aplicação ou tela bonita que você vê!
+ A maioria dos sites na internet tem HTML (HyperText Markup Language) em sua estrutura, o HTML é base para qualquer aplicação web ou tela bonita que você vê!
  
  ## Abaixo está anexado um exemplo simples de como utilizamos o HTML
 
