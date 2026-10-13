@@ -15,7 +15,7 @@ Aqui fica a sua colinha meu dev promissor!!
 ## Abaixo está anexada as principais tags HTML para você utilizar para criar seu próprio site!!
 <img width="1312" height="1199" alt="Guia visual de tags HTML em português" src="https://github.com/user-attachments/assets/f700ff9e-a288-4166-8377-a8ff2e48db83" />
 
-Entretanto seu site ficaria assim sem estilização:
+Entretanto seu site ainda não está estilizado, então ele está muito "seco" ficaria assim sem estilização:
 <img width="587" height="390" alt="a" src="https://github.com/user-attachments/assets/f91e1933-af0d-421f-8501-cd9a8a1866c5" />
 
 Agora entra o CSS (Cascading Style Sheets), com ele podemos modificar e estilizar nossa página HMTL
