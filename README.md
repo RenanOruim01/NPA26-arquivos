@@ -1,5 +1,5 @@
 # NPA26-arquivos
-
+# APERTE CTRL + SHIFT + V
 Olá!! bem vindo ao Web Criativaxion!!
 Aqui fica a sua colinha meu dev promissor!!
 
