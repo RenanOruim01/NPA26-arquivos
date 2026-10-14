@@ -77,3 +77,6 @@ Com HTML e CSS trabalhando juntos, você consegue transformar uma página simple
 Use os exemplos e as imagens como referência e comece a criar seu primeiro site!
 
 **Lembre-se: você não precisa decorar tudo. O importante é entender o básico e praticar!** 💙
+
+## Link para o site da oficina
+https://renanoruim.github.io/Web-Criativaxion/
